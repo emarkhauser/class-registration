@@ -6,3 +6,5 @@
  * Author: Erik Markhauser
  * License: GPL2
  */
+
+include( plugin_dir_path( __FILE__ ) . 'class-custom-post.php');
